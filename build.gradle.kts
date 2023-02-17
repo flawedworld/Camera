@@ -11,7 +11,7 @@ buildscript {
 }
 
 plugins {
-  id("org.sonarqube") version "3.3"
+  id("org.sonarqube") version "4.0.0.2929"
 }
 
 sonarqube {
